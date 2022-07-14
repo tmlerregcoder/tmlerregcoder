@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @tmlerregcoder
+- 👀 I’m interested in coding, machine learning, cloud computing ...
+- 🌱 I’m currently learning Angular, Spring, AWS...
+- 💞️ I’m looking to collaborate...
+- 📫 How to reach me : lerreg22@gmail.com
+<!---
+tmlerregcoder/tmlerregcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
